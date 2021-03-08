@@ -8,9 +8,9 @@ namespace Proyecto_Metodologia
 {
     static class Program
     {
-        /// <summary>-----------------------------------------
+        /// <summary>--------------------------------------------------
         /// Punto de entrada principal para la aplicación.
-        /// </summary>
+        /// </summary>-------------------------------------------------
         [STAThread]
         static void Main()
         {
